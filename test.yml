@@ -1,4 +1,0 @@
-- hosts: all
-  tasks:
-    - debug:
-        msg: " welcome to ansible version 1.0"
